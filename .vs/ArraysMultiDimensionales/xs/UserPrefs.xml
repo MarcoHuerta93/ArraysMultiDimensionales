@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B92270F6-54AA-484F-B25F-0F2C5A24DB31}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysMultiDimensionales/Program.cs">
+    <Files>
+      <File FileName="ArraysMultiDimensionales/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ArraysMultiDimensionales FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

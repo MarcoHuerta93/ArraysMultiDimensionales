@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/ArraysMultiDimensionales/ArraysMultiDimensionales/bin/Debug/ArraysMultiDimensionales.exe
+/Users/marcohuerta/Projects/ArraysMultiDimensionales/ArraysMultiDimensionales/bin/Debug/ArraysMultiDimensionales.pdb
+/Users/marcohuerta/Projects/ArraysMultiDimensionales/ArraysMultiDimensionales/obj/Debug/ArraysMultiDimensionales.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/ArraysMultiDimensionales/ArraysMultiDimensionales/obj/Debug/ArraysMultiDimensionales.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/ArraysMultiDimensionales/ArraysMultiDimensionales/obj/Debug/ArraysMultiDimensionales.exe
+/Users/marcohuerta/Projects/ArraysMultiDimensionales/ArraysMultiDimensionales/obj/Debug/ArraysMultiDimensionales.pdb
